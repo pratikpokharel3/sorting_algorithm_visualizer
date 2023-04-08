@@ -151,7 +151,10 @@ function handleSorting() {
       <span class="navbar-brand">Sorting Algorithm Visualizer</span>
 
       <div>
-        <a href="https://github.com/pratikpokharel3/snapclick" target="_blank">
+        <a
+          href="https://github.com/pratikpokharel3/sorting_algorithm_visualizer"
+          target="_blank"
+        >
           <svg
             viewBox="0 0 24 24"
             class="github_link"
